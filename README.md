@@ -293,8 +293,8 @@ The tools:
 
 ## E. How to contribute ?
 
-If you find any issue, you can raise it here at our [Issue Tracker](https://github.com/ridwanbejo/terraform-airflow-user/issues)
+If you find any issue, you can raise it here at our [Issue Tracker](https://github.com/ridwanbejo/terraform-mysql-admin/issues)
 
-If you have something that you want to merge to this repo, just raise [Pull Requests](https://github.com/ridwanbejo/terraform-airflow-user/pulls)
+If you have something that you want to merge to this repo, just raise [Pull Requests](https://github.com/ridwanbejo/terraform-mysql-admin/pulls)
 
 Ensure that you install all the tools from section D. for development purpose.
